@@ -1,0 +1,6 @@
+{
+  "model": "Word+char TF-IDF + Linear SVM",
+  "threshold": 0.2321537038898406,
+  "selection_metric": "validation f1_toxic",
+  "random_state": 42
+}

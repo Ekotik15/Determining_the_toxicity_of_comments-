@@ -1,0 +1,20 @@
+{
+  "train": {
+    "rows": 39832,
+    "toxic_rows": 3166,
+    "toxic_share": 0.07948383209479815,
+    "median_characters": 204.0
+  },
+  "validation": {
+    "rows": 9958,
+    "toxic_rows": 791,
+    "toxic_share": 0.07943362120907813,
+    "median_characters": 209.0
+  },
+  "test": {
+    "rows": 49896,
+    "toxic_rows": 3947,
+    "toxic_share": 0.07910453743787077,
+    "median_characters": 202.0
+  }
+}
