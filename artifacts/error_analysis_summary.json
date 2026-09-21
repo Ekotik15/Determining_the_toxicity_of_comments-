@@ -1,0 +1,12 @@
+{
+  "rows": 49896,
+  "true_negative": 44410,
+  "false_positive": 1539,
+  "false_negative": 1385,
+  "true_positive": 2562,
+  "false_positive_rate": 0.033493656009924044,
+  "false_negative_rate": 0.350899417278946,
+  "bootstrap_method": "stratified non-parametric bootstrap of the fixed test predictions",
+  "bootstrap_iterations": 1000,
+  "random_state": 42
+}

@@ -1,0 +1,7 @@
+error_type,text,label,score,prediction
+False positive,... what a spoiled BRAT MORON we have as a President!!,0,0.99280447,1
+False positive,how do you know I lived under marxist governments you moron,0,0.9926992,1
+False positive,"The aftermath certainly has been. If you think that most Americans love living in chronically uncertain times because there's an incompetent, ignorant, unpredictable, lying, spoil…",0,0.99236745,1
+False negative,"I have been an Aeroplan member since it's launch, and have launched a significant number of loyalty programs in Canada (Royal Rewards, CIBC 5% CashBack, various TD Credit Card pro…",1,0.0053838072,0
+False negative,"Political motivations, and parties aside. I would love to know peoples actual thoughts on this. Good. Bad? Could we actually get bipartisan support or is it a pipe dream. Addition…",1,0.005412791,0
+False negative,"At the end of the day, should Boeing be successful in driving Bombardier to the point of bankruptcy, which is its obvious intent, the Chinese would be interested in making an offe…",1,0.005414444,0

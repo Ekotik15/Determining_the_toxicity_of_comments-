@@ -1,0 +1,15 @@
+{
+  "model": "DistilBERT (fine-tuned)",
+  "backbone": "distilbert-base-uncased",
+  "threshold": 0.6223688721656799,
+  "selection_metric": "validation f1_toxic",
+  "random_state": 42,
+  "epochs": 1.0,
+  "max_length": 128,
+  "train_batch_size": 16,
+  "eval_batch_size": 64,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "positive_class_weight": 11.581806182861328,
+  "device": "cpu"
+}
